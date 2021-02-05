@@ -6,4 +6,4 @@ class Shape{
     calculateArea(){}
 }
 module.exports = Shape
-
+//shape is exported a module
